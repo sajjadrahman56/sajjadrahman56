@@ -3,11 +3,9 @@
 
 - 🔭 I’m currently working on **as a student**
 
-- 🌱 I’m currently learning **JAVA**
-
-- 👯 I’m looking to collaborate on [Easy Shopping console based](https://github.com/sajjad-njr/CodersStrike)
-
-- 💬 Ask me about **C,C++,JAVA**
+- 🌱 I’m currently learning **C#**
+- 
+- 💬 Ask me about **C,C++,JAVA , C#**
 
 - 📫 How to reach me **cse_2012020299@lus.ac.bd**
 
