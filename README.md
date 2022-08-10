@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **as a student**
 
-- 🌱 I’m currently learning **C#**
+- 💻 I’m currently learning Flutter & DSA 
  
 - 💬 Ask me about **C,C++,JAVA , C#**
 
