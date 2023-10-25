@@ -2,8 +2,40 @@
 <h1 align="center"> <b>Hi , I'm Sajjad Rahman </b> </h1>
  
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Assalamu+O+Alaikum+Warahmatullah..&hearts;++;Self-Learner+Flutter+Developer,;Computer+Science+Student,;Cloud+Newbie,;Active+Learner/Researcher,;Love+to+learn+new+stuffs..<3"></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Assalamu+O+Alaikum+Warahmatullah..&hearts;++;Self-Learner+Flutter+Developer,;Computer+Science+Student,;Cloud+Newbie,;Active+Learner/Researcher,;Love+to+learn+new+stuffs+and+Open+Source..<3"></a>
 </p>
+
+<div align=center>
+<a href="https://www.linkedin.com/in/sajjadrahman56/"><img src="https://img.shields.io/badge/Linkedin-0077b5?style=flat&logo=linkedin" alt="LinkedIn" /></a>
+<a href="https://t.me/sajjadrahman56"><img src="https://img.shields.io/badge/Telegram-0088cc?style=flat&logo=telegram" alt="Telegram" /></a>
+	
+<a href="https://twitter.com/sajjadrahman56">
+  <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=flat&logo=twitter" alt="Twitter" style="color: white;" />
+</a>
+
+</div>
+
+<div align=left>
+        <br>
+        <p>
+<strong>
+I have been developing mobile applications with Flutter (Dart) for over a year.
+
+Strong understanding of Object-Oriented Programming (OOP) and DSA.
+
+Passionate about learning Linux, Cloud Computing, Machine Learning, and Deep Learning.
+
+detail-oriented, responsible, and committed to delivering high-quality products on time self-learner and quick to grasp new concepts
+</strong>
+        </p><br><br>
+        <ul>
+            <li>🌱 <b>I’m currently learning</b>: Flutter , AWS Cloud and Deep Learning </li>
+            <li>💬 <b>Ask me about anything</b>: sajjadrahman17.info@gmail.com </li>
+            <li>📫 <b>How to reach me</b>: Catch and follow me from the above links 👆, in addition to follow me here.</li>
+            <li>😄 <b>Fun fact</b>: I love Cars(🚗), Coding(💻), Traveling(🌍), and Photography(📷).</li>
+            <li>👨‍💻 <b>Hire me for Flutter Development</b></li>
+        </ul>
+    </div>
 
 ### Language & Tools :
 
@@ -13,19 +45,29 @@
 ![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c)
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
-![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript)
 ![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql)
 ![GitHub Pages](https://img.shields.io/badge/GitHub%20Pages-%23327FC7.svg?logo=github&logoColor=white)
 ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?logo=flutter&logoColor=white)
 ![Google Cloud](https://img.shields.io/badge/Google%20Cloud-black?style=flat-square&logo=google-cloud)
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
+![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white)
+<a href="https://scikit-learn.org/" target="_blank">
+    <img alt="Scikit" src="https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white">
+  </a><a href="https://keras.io/" target="_blank">
+    <img alt="Keras" src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=Keras&logoColor=white">
+  </a><a href="https://numpy.org/" target="_blank">
+    <img alt="Numpy" src="https://img.shields.io/badge/Numpy-777BB4?style=for-the-badge&logo=numpy&logoColor=white">
+  </a>
+<a href="https://pandas.pydata.org/" target="_blank">
+    <img alt="Pandas" src="https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white">
+  </a>
 
 
 
-## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> Github Stats </b>
+
+
 <br>
-
 <div align="center">
 
 <a href="https://github.com/sajjadrahman56/">
@@ -35,71 +77,24 @@
 </a>
 </div>
 
-<br>
- 
- 
 
-## <b> Let's Connect..!</b><img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/handshake.gif" width ="80">
-<br>
-<div align='left'>
 
-<ul>
-
-<li>
-<a href="https://linkedin.com/in/0xabdulkhalid" target="_blank">
-<img src="https://img.shields.io/badge/linkedin:  0xabdulkhalid-%2300acee.svg?color=405DE6&style=for-the-badge&logo=linkedin&logoColor=white" alt=linkedin style="margin-bottom: 5px;"/>
-</a>
-</li>
+<p align="center"> 
+  Thanks for your Visit<br>
+  <img src="https://profile-counter.glitch.me/sajjadrahman56/count.svg" />
+</p>
 
 <br>
 
-<li>
-<a href="https://twitter.com/0xabdulkhalid" target="_blank">
-<img src="https://img.shields.io/badge/twitter:  0xabdulkhalid-%2300acee.svg?color=1DA1F2&style=for-the-badge&logo=twitter&logoColor=white" alt=twitter style="margin-bottom: 5px;"/>
-</a>
-</li>
-
-<br>
-
-<li>
-<a href="mailto:0xabdulkhalid@gmail.com" target="_blank">
-<img src="https://img.shields.io/badge/gmail:  0xabdulkhalid-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white" t=mail style="margin-bottom: 5px;" />
-</a>
-</li>
-	
-</ul>
-</div>
-
- 
- 
-<br>
- 
-<br>
-
----
-
-<br>
-
-Credit: [Abdul Khalid](https://github.com/0xabdulkhalid)
- 
 
 
+<!-- 
 
-
-<h1 align="center">Hi, I'm Sajjad</h1>
-<h3 align="center">Studies at BSc(Hons) Computer Science and Engineering at Leading University</h3>
-
-- 🔭 I’m currently working on **as a student**
-
-- 💻 I’m currently learning Deep Learning , Flutter & DSA 
- 
-- 💬 Ask me about **C,C++,JAVA , C# , Python , Dart , Flutter**
-
-- 📫 How to reach me **sajjadrahman1020@gmail.com**
+All under comment -------------------------------
 
 <h3 align="left"> Connect with me </h3>
 <p align="left">
-<a href="https://twitter.com/sajjadrahman56" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="sajjad_rahman17" height="30" width="40" /></a>
+<a href="https://twitter.com/sajjadrahman56" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="sajjadrahman56" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/sajjadrahman56" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="md-sajjad-10" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/15987920" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="15987920" height="30" width="40" /></a>
 <a href="https://codeforces.com/profile/njr_10" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codeforces.svg" alt="njr_10" height="30" width="40" /></a>
