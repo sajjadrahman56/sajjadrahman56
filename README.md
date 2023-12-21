@@ -19,23 +19,30 @@
         <br>
         <p>
 <strong>
-I have been developing mobile applications with Flutter (Dart) for over a year.
-
-Strong understanding of Object-Oriented Programming (OOP) and DSA.
-
-Passionate about learning Linux, Cloud Computing, Machine Learning, and Deep Learning.
-
-detail-oriented, responsible, and committed to delivering high-quality products on time self-learner and quick to grasp new concepts
+I have been developing mobile applications with Flutter (Dart) for over a year. Strong understanding of Object-Oriented Programming (OOP) and DSA. Passionate about learning Cloud Computing, Machine Learning, and Deep Learning.  Detail-oriented, responsible, and committed to delivering high-quality products on time self-learner and quick to grasp new concepts
 </strong>
-        </p><br><br>
-        <ul>
-            <li>🌱 <b>I’m currently learning</b>: Flutter , AWS Cloud and Deep Learning </li>
-            <li>💬 <b>Ask me about anything</b>: sajjadrahman17.info@gmail.com </li>
-            <li>📫 <b>How to reach me</b>: Catch and follow me from the above links 👆, in addition to follow me here.</li>
-            <li>😄 <b>Fun fact</b>: I love Cars(🚗), Coding(💻), Traveling(🌍), and Photography(📷).</li>
-            <li>👨‍💻 <b>Hire me for Flutter Development</b></li>
-        </ul>
-    </div>
+        </p>
+</div>
+
+
+ ### Skills I have 
+ <ul>
+	 <li> Languages : Python , Dart , C++ , Java , C#</li> 
+  	<li> Frameworks : Flutter , Pytorch ( Deep Learning ) </li>
+   <li> Databse : MySql </li>
+   <li> Clear idea about Github</li>
+   <li>Cloud : Azure (Open AI) , AWS ( Sagemaker,Ec2)</li>
+ </ul>
+ 
+### Activities
+
+<ul>
+   <li>🌱 <b>I’m currently learning</b>: Flutter , AWS Cloud and Deep Learning </li>
+   <li>💬 <b>Ask me about anything</b>: sajjadrahman1020@gmail.com </li>
+   <li>📫 <b>How to reach me</b>: Catch and follow me from the above links 👆, in addition to follow me here.</li>
+   <li>😄 <b>Fun fact</b>: I love Cars(🚗), Coding(💻), Traveling(🌍), and Photography(📷).</li>
+   <li>👨‍💻 <b>Hire me for Flutter Development</b></li>
+</ul>
 
 ### Language & Tools :
 
