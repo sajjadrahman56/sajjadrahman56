@@ -44,6 +44,9 @@ I have been developing mobile applications with Flutter (Dart) for over a year. 
    <li>👨‍💻 <b>Hire me for Flutter Development</b></li>
 </ul>
 
+### Award & Certification :
+- 1x ( Microsoft ) 
+
 ### Language & Tools :
 
 ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
