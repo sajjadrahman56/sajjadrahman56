@@ -45,7 +45,8 @@ I have been developing mobile applications with Flutter (Dart) for over a year. 
 </ul>
 
 ### Award & Certification :
-- 1x ( Microsoft ) 
+- AZ-900
+- AI-900 
 
 ### Language & Tools :
 
